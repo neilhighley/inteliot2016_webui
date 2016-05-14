@@ -1,0 +1,19 @@
+{
+  "name": "inteliot2016-webui",
+  "version": "1.0.0",
+  "description": "web ui for iot project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilhighley/inteliot2016_webui.git"
+  },
+  "author": "neil highley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilhighley/inteliot2016_webui/issues"
+  },
+  "homepage": "https://github.com/neilhighley/inteliot2016_webui#readme"
+}
